@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+.venv/
+venv/
+.envrc
+.coverage
+dist/
+build/
+*.egg-info/
+
+# Data & artifacts
+data/
+notebooks/.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Claude local memory
+CLAUDE.local.md
