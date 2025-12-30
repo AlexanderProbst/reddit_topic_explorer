@@ -32,5 +32,4 @@ docker compose up --build -d
 
 ### Notes
 * This template assumes you have an approved Reddit API app and OAuth credentials.
-* For periodic pulls and robust scheduling, add Prefect or Celery (see `requirements.txt` and comments in code).
 * The repository includes Claude Code project memory (`CLAUDE.md`, `.claude/rules`, `.claude/commands`) to keep iteration tight in VS Code.
