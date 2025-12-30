@@ -18,6 +18,7 @@ You are assisting on a Python-based Reddit analytics stack:
 - Use **custom slash commands** under `.claude/commands/` to run setup and scripts as needed.
 - When making wide edits, create a short plan first, then apply changes file‑by‑file.
 - Prefer editing existing files over creating many new ones unless justified.
+- at the start of each session, review recent changes in `docs/DEVLOG.md` for context.
 
 ## Testing & running
 - Dev quickstart is in `README.md`.
